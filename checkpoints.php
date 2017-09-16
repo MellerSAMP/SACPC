@@ -6,7 +6,7 @@
 	<body>
 		<style type="text/css">
 			body {
-				background: url(images/radar.png) no-repeat;
+				background: url(radar.png) no-repeat;
 				width: 1000px;
 				height: 1000px;
 				background-size: 1000px 1000px;
